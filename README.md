@@ -1,7 +1,6 @@
 - 👋Привет я Муталибов Саид
 - 👀 Я интересуюсь веб-разработкой
 - 🌱 В данный момент учу javascript
--
 
 <!---
 kasumkentskiy/kasumkentskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
