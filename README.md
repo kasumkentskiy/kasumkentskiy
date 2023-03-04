@@ -3,9 +3,9 @@
 
 
 ## 🔗 Ссылки
-[![vk](https://img.icons8.com/color/32/vk-circled--v2.png)](https://katherineoelsner.com/) 
-[![inst](https://img.icons8.com/fluency/32/instagram-new.png)](https://www.linkedin.com/)
-[![tg](https://img.icons8.com/color/32/telegram-app--v4.png)](https://twitter.com/)
+[![vk](https://img.icons8.com/color/32/vk-circled--v2.png)](https://vk.com/html053) 
+[![inst](https://img.icons8.com/fluency/32/instagram-new.png)](https://instagram.com/sebaldele)
+[![tg](https://img.icons8.com/color/32/telegram-app--v4.png)](https://t.me/sebaldele)
 
 
 ## 🛠 В чем хорош:
